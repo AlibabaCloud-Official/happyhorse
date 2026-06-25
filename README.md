@@ -1,5 +1,7 @@
 # HappyHorse: Create High-Converting AI Visuals in Seconds
+> 📢 **What's New**: The **happyhorse 1.1 API** is now officially released! Click [API Documentation](https://hppyhorse.com/zh/docs/happyhorse-1-1) to access the docs and get started.
 
+---
 Stop settling for generic, soul-less AI imagery. [HappyHorse](https://happyhorse.app/) helps creators and SaaS founders generate high-end, emotionally resonant visuals that actually convert. Whether you are building a landing page or scaling social content, [HappyHorse.app](https://happyhorse.app/) bridges the gap between raw AI power and exquisite human taste.
 
 ---
@@ -42,7 +44,7 @@ Time is your most valuable asset. The [HappyHorse](https://happyhorse.app/) infr
 | **What makes HappyHorse different?** | [HappyHorse](https://happyhorse.app/) focuses on professional aesthetic quality over raw quantity, removing the typical "AI flavor" from results. |
 | **Is HappyHorse.app mobile-friendly?** | Yes, the [HappyHorse](https://happyhorse.app/) interface is fully responsive and optimized for both desktop and mobile workflows. |
 | **Can I use images for commercial projects?** | Absolutely. All visuals generated via [HappyHorse.app](https://happyhorse.app/) are yours to use for SaaS, marketing, or personal projects. |
-| **Does HappyHorse support API access?** | We are currently rolling out developer tools to integrate [HappyHorse](https://happyhorse.app/) directly into your own applications. |
+| **Does HappyHorse support API access?** | Yes! The **happyhorse 1.1 API** has been released. You can integrate our services directly by visiting the [API Documentation](https://hppyhorse.com/zh/docs/happyhorse-1-1).|
 | **How do I optimize results?** | [HappyHorse](https://happyhorse.app/) works best with clear, descriptive prompts focusing on lighting, contrast, and composition. |
 | **Is there a free trial?** | You can explore the core features of [https://happyhorse.app/](https://happyhorse.app/) with our initial credit package. |
 | **What file formats are supported?** | [HappyHorse](https://happyhorse.app/) supports high-resolution exports in PNG, JPG, and WebP formats. |
